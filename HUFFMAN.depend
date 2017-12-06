@@ -1,0 +1,70 @@
+# depslib dependency file v1.0
+1482783961 source:c:\users\boura\onedrive\documents\esilv\3eme annee\informatique\langage_c\huffman\fichier.c
+	<stdio.h>
+	"fichier.h"
+	"liste.h"
+
+1482243222 c:\users\boura\onedrive\documents\esilv\3eme annee\informatique\langage_c\huffman\fichier.h
+
+1482930126 source:c:\users\boura\onedrive\documents\esilv\3eme annee\informatique\langage_c\huffman\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"fichier.h"
+	"liste.h"
+	"arbre.h"
+	"programme.h"
+
+1482775165 c:\users\boura\onedrive\documents\esilv\3eme annee\informatique\langage_c\huffman\liste.h
+
+1482784085 source:c:\users\boura\onedrive\documents\esilv\3eme annee\informatique\langage_c\huffman\liste.c
+	<stdio.h>
+	"liste.h"
+	"arbre.h"
+
+1482161565 c:\users\boura\onedrive\documents\esilv\3eme annee\informatique\langage_c\huffman\arbre.h
+
+1482161565 source:c:\users\boura\onedrive\documents\esilv\3eme annee\informatique\langage_c\huffman\arbre.c
+	<stdio.h>
+	"arbre.h"
+
+1482787931 c:\users\boura\onedrive\documents\esilv\3eme annee\informatique\langage_c\huffman\programme.h
+
+1482930126 source:c:\users\boura\onedrive\documents\esilv\3eme annee\informatique\langage_c\huffman\programme.c
+	<stdio.h>
+	<stdlib.h>
+	"arbre.h"
+	"liste.h"
+	"fichier.h"
+	<math.h>
+
+1482161565 source:c:\users\boura\onedrive\documents\esilv\esilv\3eme annee\informatique\langage_c\huffman\arbre.c
+	<stdio.h>
+	"arbre.h"
+
+1482784085 source:c:\users\boura\onedrive\documents\esilv\esilv\3eme annee\informatique\langage_c\huffman\liste.c
+	<stdio.h>
+	"liste.h"
+	"arbre.h"
+
+1482930126 source:c:\users\boura\onedrive\documents\esilv\esilv\3eme annee\informatique\langage_c\huffman\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"fichier.h"
+	"liste.h"
+	"arbre.h"
+	"programme.h"
+
+1482243222 c:\users\boura\onedrive\documents\esilv\esilv\3eme annee\informatique\langage_c\huffman\fichier.h
+
+1482787931 c:\users\boura\onedrive\documents\esilv\esilv\3eme annee\informatique\langage_c\huffman\programme.h
+
+1482930126 source:c:\users\boura\onedrive\documents\esilv\esilv\3eme annee\informatique\langage_c\huffman\programme.c
+	<stdio.h>
+	<stdlib.h>
+	"arbre.h"
+	"liste.h"
+	"fichier.h"
+	<math.h>
+
