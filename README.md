@@ -1,0 +1,2 @@
+# Huffamn
+Huffman algorithm
